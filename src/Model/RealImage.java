@@ -9,6 +9,6 @@ public class RealImage extends Image {
 
     @Override
     public BitMap getBitMap() {
-        return bitmap;
+        return  bitmap;
     }
 }
